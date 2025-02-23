@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Keerthi Prasanth Ravichandran</h1>
 
-👩🏻‍🎓 Studied Advanced Software Engineering at the University of Leicester, UK<br>
+👩🏻‍🎓 Studied Advanced Software Engineering at the University of Leicester, UK.<br>
 🛠️ Experienced in Java, JavaScript, React.js, Node.js, Express.js, MongoDB and Android Studio.<br>
 💡 Passionate about developing user-centric and responsive web and mobile applications.<br>
 🤝 Open to collaborating on innovative projects and learning new technologies.<br>
